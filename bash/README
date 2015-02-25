@@ -1,0 +1,45 @@
+* stderr : the error stream will be printed
+* cut -d " " -c 2- marks1.txt 1> /tmp/m_tmp.txt 2> /tmp/m_err.txt
+ 	1> : will redirect the stdout to a file
+	2> : redirects the error to a file
+* > : To show the opened end of the symbol is input
+* sh < file1 : To take input from file1 instead of giving it from the keyboard
+* sh < file1 > file2 : The output of the first command is pasted in file2
+* Tab completion : Commonly used 
+* $ : will display all the shell variables
+* echo $MACHTYPE : Will display the machine type
+* vim ~/.bash_history : History of all the terminals used will be stored in this history file
+* Metacharacters cannot be used as filesnames
+* ls | tee out : the output is stored in the file out as well as display on screen
+* Working with .csv files
+* cut -d" " -f2- marks1.txt | paste -d" " students.txt - | sort -t : Sort the result
+* cut -d" " -f2- marks1.txt | paste -d" " students.txt - | sort -t : Sort the result in reverse order
+* ls -l | sort -k5 : Do sorting in the result, -k5 says we should sort based on the 5th
+* grep : global regular expression and print. It searches on text files for patterns
+* grep -i a students.txt : Search for a in the file students.txt
+* Get familiarised with regular expressions
+* cd - : Go back to the previous directory
+* Reference book : Unix power tools
+* \r : carriage return. To return to the same line.
+* \n : Move to new line
+* uniq test : To remove repeated entries in the file test ONLY if the file test has all entries sorted. If not alternate entries or those which arenot together
+-------------------------------------------------------------------------------------------------
+
+SHELL SCRIPTING (19/01/2015)
+* ECHO will print a new line by default
+* To run script use either 'source' or '.'
+* Use small case letters for all except for the environment variables
+* $ find ~ -name \*.txt | ls -l : The ls at the end will ignore the value coming through pipe by the first command. This is because, ls will expect the directory as input.Since it is not given now , ls -l will print the contents of the current directory
+* xargs is useful for commands which doesn't accept standard inputs
+------------------------------------------------------------------------
+
+ASSIGNMENT 2 (git)
+------------------
+* One commit is made which is merged with our commit. Check for not mergable (permission) option & verify & correct the thigs 
+ 
+
+
+   
+
+ 
+ 

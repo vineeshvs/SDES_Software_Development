@@ -1,0 +1,243 @@
+def collatx(x):
+    while(x!=1):
+        if x%2==0: 
+            y=2x    
+            x=y
+            else
+            y=2*n+1
+            x=y
+def collatx(x):
+    while(x!=1):
+        print "dflds"
+collatx(1)
+collatx(2)
+def collatx(x):
+    while(x!=1):
+        if n%2==1:
+            y=2*x+1
+def collatx(x):
+    while(x!=1):
+        if n%2==1:
+            y=2*x+1
+    return y
+def collatx(x):
+    while(x!=1):
+        if x%2==1:
+            y=2*x+1
+    return y
+collatx(3)
+def collatx(x):
+    while(x!=1):
+        if x%2==1:
+            y=1
+    return y
+collatx(3)
+def collatx(x)
+def test(x)
+def collatx(x):
+    while(1):
+        if x==1:
+            print "End of conversion"
+def collatx(x):
+    while(1):
+        if x==1:
+            print "End of conversion"
+def collatx(x):
+    while(1):
+        if x==1:
+            print "End of conversion"
+collatx(1)
+def collatx(x):
+    while(1):
+        if x==1:
+            print "End of conversion"
+            return True
+        :
+            :
+                :
+                    lfjdlf
+def collatx(x):
+    while(1):
+        if x==1:
+            print "End of conversion"
+            return True:
+def collatx(x):
+    while(1):
+        if x==1:
+            print "End of conversion"
+            return True
+def what(n)
+if n>
+def what(n);
+def what (n);
+def what (n):
+    if n<0: n=-n
+    while n>0:
+        if n%2==1:
+            return False
+        n/=10
+        return True
+what (-9)
+def fib(n)
+re
+def fib(n):
+    result=[]
+    if n==0
+    result=[]
+def fib(n):
+    result=[]
+    if n==0:
+        result.append(0)
+        elif n==1:
+            result.extend([0,1])
+            else:
+                result=[0,1]
+                for i in range (92,n):
+                    result.append(result[i-1]+result[i-2)
+                    return result
+def fib(n):
+    result=[]
+    if n==0:
+        result.append(0)
+        elif n==1:
+            result.extend([0,1])
+            else:
+                result=[0,1]
+                for i in range (92,n):
+                    result.append(result[i-1]+result[i-2)
+                    return result
+def fib(n):
+    if (n==3):
+        a,b,c
+        dflkd
+fib(3)
+def fib(n):
+    if (n==3):
+        
+        k=0,m=9,return m
+        else
+        m=10, return m
+def fib(n):
+    if (n==3):
+        
+        k=0,m=9,print m
+        else
+        m=10, print m
+def collatz(n):
+    if n==1:
+        return 1
+    elif n%2=0:
+        return n/2
+    else return
+def collatz(n):
+    if n==1:
+        return 1
+    elif n%2=0:
+        return n/2
+    else return
+def collatz(n):
+    if n==1:
+        return 1
+    elif n%2=0:
+        return n/2
+    else 
+    return 3*n+1
+def collatz(n):
+    if n==1:
+        return 1
+    elif n%2==0:
+        return n/2
+    else 
+    return 3*n+1
+def what( n ):
+    ....:
+        if n < 0: n = -n
+        ....:
+            while n > 0:
+                ....:
+                    if n % 2 == 1:
+                        ....:
+                            return False
+                        ....:
+                            n /= 10
+                            ....:
+                                return True
+def what(n):
+    if n==3
+    print "ldjflk
+def what(n)
+def what(n):
+    if n==3:
+        
+        
+        
+        
+        
+        lsfkjds
+def what(n):
+    if n==3:
+        
+        
+        
+        
+        
+        lsfkjds
+        end
+        exit
+        end
+        finish
+a=[1,2,3]
+t=(a,1,2,3)
+t
+a=1
+t
+t(
+)
+data={'cpp':'c++ language','py':'python'}
+data
+for key in data:
+    print key, data[key]
+for key,value in data.iteritems():
+    print key,value
+a_list=[1,2,3]
+a=set(a_list)
+a
+history
+
+In [58]: 
+
+
+
+
+
+        lsfkjds
+def what(n):
+    if n==3:
+
+
+
+
+
+        lsfkjds
+        end
+        exit
+        end
+        finish
+a=[1,2,3]
+t=(a,1,2,3)
+t
+a=1
+t
+t(
+)
+data={'cpp':'c++ language','py':'python'}
+data
+for key in data:
+    print key, data[key]
+for key,value in data.iteritems():
+    print key,value
+a_list=[1,2,3]
+a=set(a_list)
+a
+history
+

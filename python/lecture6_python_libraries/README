@@ -1,0 +1,23 @@
+Standard libraries used in python
+---------------------------------------------------------
+
+String operations:
+
+* in integers arbitrary precision is by  default
+* HW: check for operations in fractions
+* copy() creates a copy of the object. 
+
+---------------------------------------------------------
+
+Midterm:
+
+syllabus:
+	bash, python, TDD, Git, Numpy, Scipy, Mathplotlib
+date venue :
+     25/2/15: 5:30-7:30
+     LC 302
+     Download and bring slides/ any other material to the exam
+     homework posted by prabhu (3rd python homework)
+----------------------------------------------------------
+
+The presentation was done in a tool called rst. text based html presentation 

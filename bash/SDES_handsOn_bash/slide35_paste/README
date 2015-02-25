@@ -1,0 +1,13 @@
+Home works
+
+* command
+
+cut -d " " -f 2- marks.txt | paste -d " " students.txt - | tr " " ","
+
+Hussain,92,85
+Dilbert,47,67
+Anne,82,76
+Raul,97,60
+Sven,68,69
+
+

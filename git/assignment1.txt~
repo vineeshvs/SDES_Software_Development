@@ -1,0 +1,17 @@
+ 1162  git init --bare
+ 1163  ls
+ 1164  cat > README
+ 1165  ls
+ 1166  git add README
+ 1167  git commit -m "this is server file"
+ 1168  git status 
+ 1169  cd ../../alice/
+ 1170  git clone ../server/project/
+ 1171  cd project/
+ 1172  ls
+ 1173  git init --bare
+ 1174  ls
+ 1175  git push origin master
+ 1176  history
+
+

@@ -1,0 +1,25 @@
+#!/bin/python
+from gcd import gcd
+    while True:
+        try:
+            print "Validating x" 
+            int(x)
+            print "x is valid"
+        except ValueError:
+            print "Invalid value of x"
+            break
+        try:
+            print "Validating y"
+            int(y)
+            print "y is valid"
+        except ValueError:
+            print "Invalid value of y"
+            break
+        finally:
+            print "Let's calculate gcd"
+            print "gcd is",calculate_gcd(x,y)
+            break
+ 
+
+
+

@@ -1,0 +1,64 @@
+My first clone 
+
+ 1162  git init --bare
+ 1163  ls
+ 1164  cat > README
+ 1165  ls
+ 1166  git add README
+ 1167  git commit -m "this is server file"
+ 1168  git status 
+ 1169  cd ../../alice/
+ 1170  git clone ../server/project/
+ 1171  cd project/
+ 1172  ls
+ 1173  git init --bare
+ 1174  ls
+ 1175  git push origin master
+ 1176  history
+
+------------------------------------------------------------------
+
+My first git push
+
+ 1086  git pull https://github.com/vineeshvs
+ 1087  git pull https://github.com/vineeshvs/IITB.git
+ 1088  ls
+ 1089  cd ..
+ 1090  git clone https://github.com/vineeshvs/IITB.git
+ 1091  ls
+ 1092  git pull
+ 1093  cd IITB/
+ 1094  git pull
+ 1095  git pull origin master
+ 1096  git fetch
+ 1097  git push origin master
+
+-------------------------------------------------------------------
+
+My first git contribution (first push through command line)
+
+ 1113  git clone https://github.com/vineeshvs/SDES2015.git
+ 1114  ls
+ 1115  cd SDES2015/
+ 1116  ls
+ 1117  git pull
+ 1118  git pull origin master
+ 1119  git checkout master 
+ 1120  git pull origin master
+ 1121  git push origin master
+ 1122  VIM 
+ 1123  vim README.txt
+ 1124  mkdir 123079040
+ 1125  cd 123079040/
+ 1126  vim README.txt
+ 1127  ls
+ 1128  git branch
+ 1129  git branch -b vineeshvs_123079040
+ 1130  git checkout -b vineeshvs_123079040
+ 1131  ls
+ 1132  vim README.txt README.txt 
+ 1133  git add README.txt
+ 1134  git commit
+ 1135  git push origin vineeshvs_123079040 
+
+--------------------------------------------------------------------

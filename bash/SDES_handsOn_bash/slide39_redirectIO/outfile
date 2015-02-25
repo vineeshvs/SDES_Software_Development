@@ -1,0 +1,30 @@
+total 112
+-rw-rw-r--.  1 vineeth vineeth   250 Nov 22 22:05 a.c~
+drwxrwxr-x.  3 vineeth vineeth  4096 Sep 30 21:07 altera
+drwxr-xr-x. 10 vineeth root     4096 Oct  6 01:01 backups
+drwxr-xr-x.  9 vineeth vineeth  4096 Jan 11 16:34 Desktop
+drwxr-xr-x.  4 vineeth vineeth  4096 Jan 16 12:38 Documents
+drwxr-xr-x. 23 vineeth vineeth 28672 Jan 17 10:47 Downloads
+drwxrwxr-x.  4 vineeth vineeth  4096 Jan 14 14:32 junk
+drwxr-xr-x.  3 vineeth vineeth  4096 May  5  2014 Music
+drwxr-xr-x.  3 vineeth vineeth  4096 Jan 16 16:02 Pictures
+drwxr-xr-x.  2 vineeth vineeth  4096 May  3  2014 Public
+-rw-rw-r--.  1 vineeth vineeth    40 May  5  2014 sample.py~
+drwxrwxr-x.  2 vineeth vineeth  4096 Jan 16 10:36 scripts_backups
+drwxrwxr-x.  8 vineeth vineeth  4096 Oct 11 14:59 software_installations
+drwxr-xr-x.  2 vineeth vineeth  4096 May  3  2014 Templates
+drwxrwxr-x.  2 vineeth vineeth  4096 Nov 20 18:56 test
+drwxrwxr-x.  2 vineeth vineeth  4096 Oct 14 23:58 tmp
+-rw-rw-r--.  1 vineeth vineeth   247 Jan 16 10:37 tracker.txt
+-rw-rw-r--.  1 vineeth vineeth   118 Jan  8 22:57 tracker.txt~
+drwxr-xr-x.  2 vineeth vineeth  4096 May  3  2014 Videos
+drwxrwxr-x.  4 vineeth vineeth  4096 Oct  6 01:00 vineeth
+drwxrwxr-x. 25 vineeth vineeth  4096 Nov  4 12:53 workspace
+Filesystem      Size  Used Avail Use% Mounted on
+devtmpfs        1.6G     0  1.6G   0% /dev
+tmpfs           1.6G  152K  1.6G   1% /dev/shm
+tmpfs           1.6G  3.2M  1.6G   1% /run
+tmpfs           1.6G     0  1.6G   0% /sys/fs/cgroup
+/dev/sda7        35G   29G  4.7G  86% /
+tmpfs           1.6G   68K  1.6G   1% /tmp
+/dev/sda2       178G  118G   61G  67% /run/media/vineeth/FUN

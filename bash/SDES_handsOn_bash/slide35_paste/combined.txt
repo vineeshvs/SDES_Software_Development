@@ -1,0 +1,5 @@
+Hussain	89 92 85
+Dilbert	98 47 67
+Anne	67 82 76
+Raul	78 97 60
+Sven	67 68 69

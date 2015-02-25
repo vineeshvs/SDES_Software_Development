@@ -1,0 +1,45 @@
+Object oriented programming
+
+* Objects: Contains data, have behavior 
+* Methods: Difference compared to functions is that they are bound to a purticular object
+* Class: Its like any other object when created. Its just that when you instantiate a class we get another object
+  * Instantiation: class(arg1, arg2)
+* Class is a CAD model and the instantiation is a chair made out of the CAD model
+? Virtual functions 
+* Always use the name 'self' as the first argument??
+
+
+-----------------------------------------
+Instantiation of the class
+------------------------------------------
+class A(object):
+    i=432432
+    def whatever(self):
+        print "whatever",self.i
+a =A()
+a.i
+A.i
+b=Drawable()
+b.i
+A.x=12343243
+a.x
+A.X
+A.x
+a =A()
+b =A()
+A.i='hello'
+a.i
+b.i
+a.i="cood morning
+a.i='cood morning'
+a.i
+b.i
+
+-------------------------------------------
+
+* None -> can be used to check if something is initialized or not
+* Subclass is not going to call the parent by itself. You need to do it explicitly
+
+* Drawables can draw another drawables which are also drawables
+* Drawables serve the purpose of documentation. 
+  * Eg: Only if drawable is implemented, shall the user select the section

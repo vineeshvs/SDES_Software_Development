@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "$1 is input and $2 is output"

@@ -1,0 +1,183 @@
+Basics of Python : (Dr. Prabhu)
+* Python is an interpreter
+* Can use normal bash commands in python console?? (not all!!)
+* Stick to 2.7.x and not use 3.x for now. There are problems with installling packages
+* Install ipython
+* Use the command yum install python-ipython.noarch to install ipython in Fedora
+* Datatype 'long' is available in Python
+* Integers can be arbitrarily long
+* Python is a case sensitive language
+
+-------------------------------------------------------------------------
+
+HISTORY OF COMMANDS (on 22/1/15)
+
+F and T
+f and t
+a and True
+False and True
+False and T
+F and T
+f and t
+f=not t
+t=True
+f=not t
+f ad t
+f and t
+f or t
+f and t
+f and t
+num_list
+num_list[2]
+num_list=[3,2]
+num_list[2]
+num_list=[3,2]
+num_list=[3,2,3,4,5,5]
+num_list+[1]
+num_list+"world"
+len(num_list)
+len=1
+len(a)
+del len
+len(a)
+a=[4,5,6]
+len(a)
+and=1
+history
+greet_str="hello world"
+'h' in greet_str
+'z' in greet_str
+'w' in greet_str
+num_list
+10 in num_list
+5 in num_list
+max(num_list)
+min (sg
+min
+min (greet_str)
+sort (greet_str)
+help sort
+sort help
+if "h" in greet_str
+if 'h' in greet_str
+if 'h' in greet_str\
+print "ldsjfl"
+d
+num_list[1:5]
+clear
+num_list[1:8:2]
+num_list
+green_str[2:3]
+greet_str[2:3]
+greet_str
+typeof(num_list[1:5])
+typeof(num_list)
+Typeof(num_list)
+type(num_list)
+type(num_list[1:5])
+""""lfjdlsflksdfjl""""
+"""lfjdlsflksdfjl"""
+""lfjdlsflksdfjl""
+"lfjdlsflksdfjl""
+"lfjdlsflksdfjl"
+'lfjdlsflksdfjl'
+"""lfjdlsflksdfjl"""
+a="""
+I am going to
+type a 
+long 
+string
+inside tripple
+quotes
+"""
+a
+a='hello'
+b='world'
+a+','+b+'!'
+a*b
+a*5
+a*80928403984
+a[0]='h'
+a
+print a[0]
+print a[-90]
+print a[90]
+print a[-9]
+a
+a[9]
+a[0]='H'
+a[0]+'H'
+a[0]-'H'
+a[0]--'H'
+a[0]+'H'
+a
+if 'less a'
+if `less a`
+a='H'+a[1:]
+a
+print"the above line replaces first letter with "H" deleting the 'h'
+print "the above line replaces first letter with "H" deleting the 'h'
+print "the above line replaces first letter with "H" deleting the 'h'"
+print "the above line replaces first letter with H deleting the h"
+print "the above line replaces first letter with H deleting the h"
+q="Hello world!"
+q[:]
+q[-1:2]
+q[-1:1]
+q
+q[-1:1]
+print "gives nothing"
+print " the above command gives nothing"
+q[::-1]
+print "reversed"
+print "reversed"
+q[::1]
+q[1:2:1]
+q[1::1]
+q[2::2]
+q[2::-2]
+q[5:0:12]
+q[5:0:-1]
+q
+q[:0:-1]
+q[:-1:-1]
+q[::-1]
+s.
+s.
+s.capi
+a.capitalize
+a
+a.capitalize?
+print "above command is like help. Add a ?, and you will get the information of the command"
+history
+a.lower
+a.
+b=a.upper
+b
+a.istitle
+a.istitle?
+week={'monday'}
+week
+week={'monday','tuesday'}
+week
+s={monday}
+s={'monday'}
+s
+s.difference
+s
+s={'monday'}
+week={'MON','TUE'}
+s.copy a
+s.difference?
+s.difference s week
+week="saturday"
+week:3]
+week[:3]
+week[:3].upper()
+week[:3].upper()
+print "convert the first three letters to upper case"
+history
+-----------------------------------------------------------------------------
+
+  
+ 
